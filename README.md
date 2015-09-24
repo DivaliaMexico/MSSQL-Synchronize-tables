@@ -7,3 +7,5 @@ Usage: Sync.exe TableName
 ```
 
 Software compilado con Visual Studio 2013 pero deberia funcionar en cualquier version.
+
+## NOTA: Hacer backup de las bases de datos antes de utilizar esta herramienta, por cuestiones requerimentos, esta aplicacion hace un vaciado de la tabla de destino, ambas tablas deben coincidir en estructura.
