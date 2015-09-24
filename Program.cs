@@ -18,9 +18,8 @@ namespace Sync
             if (args.Length == 0)
             {
                 Console.WriteLine("Divalia S.A de C.V - Table Mirroring Tool v0.10");
-                Console.WriteLine("Uso autorizado a Estrategia Hospitalaria.");
+                Console.WriteLine("https://www.divalia.mx");
                 Console.WriteLine("Usage: Sync.exe TableName");
-
                 Console.ReadLine();
             }
             else
